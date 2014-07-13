@@ -26,10 +26,10 @@ This script uses BeautifulSoup 4 so install it either via pip or easy_install
 How to use this project?
 ------------------------
  - Download the repository or clone it
-
->git clone https://github.com/ankitksharma/WordlistMnemonic.git
+ 
+    `git clone https://github.com/ankitksharma/WordlistMnemonic.git`
 
  - Edit the words.csv file
  - Run the project.py script
 
->python project.py
+    `python project.py`
