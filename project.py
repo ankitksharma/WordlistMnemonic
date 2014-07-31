@@ -12,7 +12,7 @@ import csv
 import re
 
 words = []
-with open('words_test.csv', 'rb') as csvfile:
+with open('words.csv', 'rb') as csvfile:
     data = csv.reader(csvfile, delimiter=',')
     for row in data:
         words = row
