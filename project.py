@@ -50,5 +50,5 @@ for word in words:
     print result
 
 #print results to a file
-myfile = open("result_test.csv","wb")
+myfile = open("result.csv","wb")
 print >>myfile, '\n'.join(result)
